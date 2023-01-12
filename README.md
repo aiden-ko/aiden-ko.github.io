@@ -4,7 +4,7 @@ Aldrich Zabaldica
 LG **CAMPION**
 
 ----------------------
->One of my hobby is playiung the rubiks cube.
+>One of my hobby is playing the rubiks cube.
 
 Rubix Cube is a cube. Its like a math problem that I can't solve.
 
