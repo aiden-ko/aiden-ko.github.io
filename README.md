@@ -1,7 +1,7 @@
 # aiden-ko.github.io
 Aldrich Zabaldica
 
-LG **CAMPION**
+Well. hello there! Welcome to my website where you'll get to know me more. I'm Aldrich R. Zabaldica, a student who loves reading and making essays. However, I think I have more things that would be helpful for other people to know me or maybe some thing here might be applicable for a job interview in the future, eh?
 
 ----------------------
 >One of my hobby is playing the rubiks cube.
