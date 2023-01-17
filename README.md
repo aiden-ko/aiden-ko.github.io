@@ -7,7 +7,6 @@ Well, hello there! Welcome to my website where you'll get to know me more. I'm A
 Favorite Joke: One of my hobby is playing the rubiks cube. Its like a math problem that I can't solve.
 
 ![alt text](https://classteaching.files.wordpress.com/2019/09/rubiks-cube.jpg)
-width = "200"
    
    --------------------------------------------------
   My favorite playlists:
