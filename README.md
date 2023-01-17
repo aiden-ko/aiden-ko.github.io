@@ -9,12 +9,12 @@ Favorite Joke: One of my hobby is playing the rubiks cube. Its like a math probl
 ![alt text](https://classteaching.files.wordpress.com/2019/09/rubiks-cube.jpg)
    
    --------------------------------------------------
-  My favorite Youtube Video and Spotify playlist:
-   
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/3RfYX7o9RbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  My favorite playlists to listen to:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DWZeKCadgRdKQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/f/f4/Map_of_Philippines_%28en%29.png)
-width="400"
-hegiht="500"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lmt1AB5qU3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6K4yr7xsVfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> I usually listen to Taylor Swift for English songs but for Filipino song, I don't have any artist that I usually listen to but I prefer any :))
