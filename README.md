@@ -24,5 +24,5 @@ Favorite Joke: One of my hobby is playing the rubiks cube. Its like a math probl
 
 # Hobbies
 Sometimes. I also take a video of myself studying. Even though I used to dream of being a youtuber, I don't think I can be really hands-on if I ever be one. 
-I'm also intersted in photography especially nature and the things that I see. 
+I'm also intersted in photography especially nature and the things that I see. (Here are some of my videos and pictures):
 
