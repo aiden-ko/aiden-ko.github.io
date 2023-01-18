@@ -17,7 +17,7 @@ Favorite Joke: One of my hobby is playing the rubiks cube. Its like a math probl
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lmt1AB5qU3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6K4yr7xsVfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>\
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6K4yr7xsVfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 > I usually listen to Taylor Swift for English song but for Filipino songs, I don't have any artists that I prefer listening to so any will be fine :))
@@ -26,4 +26,12 @@ Favorite Joke: One of my hobby is playing the rubiks cube. Its like a math probl
 
 # Hobbies
 Sometimes, I take a video of myself studying. I'm also intersted in photography especially nature and the things that I see. (Here are some of my videos and pictures):
+
+
+
+I also learn to do different things like drawing and cooking during my free time:
+
+
+
+
 
