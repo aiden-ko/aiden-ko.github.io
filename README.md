@@ -8,19 +8,17 @@ Favorite Joke: One of my hobby is playing the rubiks cube. Its like a math probl
 
 ![alt text](https://classteaching.files.wordpress.com/2019/09/rubiks-cube.jpg)
    
-   --------------------------------------------------
+   -----------------------------------------------------------------------------------------------------------------
   My favorite playlists:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hS4akr_fcZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DWZeKCadgRdKQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vzqlwm0Gj9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lmt1AB5qU3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6K4yr7xsVfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-> I usually listen to Taylor Swift for English song but for Filipino songs, I don't have any artists that I prefer listening to so any will be fine :))
+> I usually listen to Taylor Swift because I like her music style. So I guess I can say she's my favorite artist. To add, I also listen to Filipino songs as you can see in the playlists above. 
 
 ---------------------------------------------------------------
 
