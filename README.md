@@ -23,8 +23,13 @@ Favorite Joke: One of my hobby is playing the rubiks cube. Its like a math probl
 ---------------------------------------------------------------
 
 # Hobbies
-Sometimes, I take a video of myself studying. I'm also intersted in photography especially nature and the things that I see. (Here are some of my videos and pictures):
+I take photos (I'm interested in photography):
 
+![alt text](https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/325522409_1233408174261226_6018730571651595501_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGqkLSQH13Mrx4VXZ8yxh00nmAjR2qHLdWeYCNHaoct1XsZXguZXZOzZKRrmsjKS_VGP-259NP6-QGGwF3pjknF&_nc_ohc=ypgmeOb05fYAX-bJzT7&tn=EUiRKY0w2-kPHUuc&_nc_ht=scontent.fwnp1-1.fna&oh=03_AdR7ZL6JWY07hdoDv-ryqvI2I2Cio5pemZhkCyWPoUTP7w&oe=63F0205C)
+
+![alt text](https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/325623870_969453027365864_7095990477204951504_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHXmmQ8fRey3AGc60HBnXviKooPwQyrMyMqig_BDKszI7g9KkNEFG5T89OibQ8pOlKtQuvPl0i-tVDq6Ugq8_ZB&_nc_ohc=TnbPTO4B2DsAX_lowYW&_nc_ht=scontent.fwnp1-1.fna&oh=03_AdQRaWHTnvbpI0MVJj1M5TB8FF6sXmLvKgkI97SfiV8XbQ&oe=63F01D72)
+
+![alt text] (https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/320383893_732329388499521_5545947894392521870_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGD1NBBSu7GEsNsebtJlwmLTq8CziKNeKVOrwLOIo14pc5IGi3X30JufkaVcMOHuQepjcgvNvaB91dDfyqIoQNp&_nc_ohc=HdXFjVwlcbsAX94NkIq&_nc_ht=scontent.fwnp1-1.fna&oh=03_AdTa8rFSUi-WL-RdrE3MYX6mXwn8fq4ScEkv7R3m1kJlJg&oe=63F04BD2)
 
 
 I also learn to do different things like drawing and cooking during my free time:
