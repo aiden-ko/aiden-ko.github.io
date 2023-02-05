@@ -30,5 +30,8 @@ I take photos and draw during my free time:
 ![alt text](https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/320383893_732329388499521_5545947894392521870_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGD1NBBSu7GEsNsebtJlwmLTq8CziKNeKVOrwLOIo14pc5IGi3X30JufkaVcMOHuQepjcgvNvaB91dDfyqIoQNp&_nc_ohc=HdXFjVwlcbsAX94NkIq&_nc_ht=scontent.fwnp1-1.fna&oh=03_AdTa8rFSUi-WL-RdrE3MYX6mXwn8fq4ScEkv7R3m1kJlJg&oe=63F04BD2)
 
 
+# A Memory
+When I was little, I loved drawing stick-man figures so by sharing an image of my drawing, I hope that you'll get to know me better. 
 
+![alt text](https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/327058734_961538878233544_2541552767006278018_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGz5IS0os8Akt9T-dHDEvGfh8M6NeT4zN-Hwzo15PjM31uq1EjhMpixBNAPOnYaPCAMB2TIogf2jvrhMVSndtoo&_nc_ohc=ogN314nLYnkAX_hsJ_t&tn=Xv-JuVCOHehP6Fd-&_nc_ht=scontent.fwnp1-1.fna&oh=03_AdQfcvjmb3LlYr3zM2_hZXKzqDXJj0dTA2KO28AyGtZ-tw&oe=6406B180)
 
